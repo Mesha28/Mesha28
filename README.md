@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to my GitHub Profile
 
-https://via.placeholder.com/1000x200?text=Welcome+to+My+GitHub+Profile
+
 
 ## 👨‍💻 About Me
 
